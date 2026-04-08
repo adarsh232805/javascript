@@ -90,3 +90,4 @@ console.log(b1 >> 1); // right shift   output will be 2 because 0101 >> 1 = 0010
 
 
 
+
