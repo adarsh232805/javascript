@@ -26,3 +26,5 @@ console.log(person.vote()); // Output: I am voting!
 console.log(person); // Output: { name: 'John', age: 30, city: 'New York' }
 
 
+
+
